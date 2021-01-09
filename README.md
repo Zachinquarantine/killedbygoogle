@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
-  <h1>What's Killed in Tech?</h1>
+  <h1>What's Dead in Tech?</h1>
   <p>It's a service that tracks the latest products in tech that are dying, based off of <a href="https://github.com/codyogden/killedbygoogle">Killed by Google</a>!</p>
 </div>
 
