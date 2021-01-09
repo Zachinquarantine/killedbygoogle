@@ -95,6 +95,14 @@
     "name": "App Maker",
     "type": "service"
   },
+    {
+    "dateClose": "2021-04-13",
+    "dateOpen": "2013-06-14",
+    "description": "Windows Embedded Compact 7 was a  Windows 7 based embedded operating system.",
+    "link": "https://docs.microsoft.com/en-ca/lifecycle/products/windows-embedded-compact-7",
+    "name": "Windows Embedded Compact 7",
+    "type": "service"
+  },
   {
     "dateClose": "2018-01-12",
     "dateOpen": "2016-06-30",
@@ -127,6 +135,14 @@
     "name": "Datally",
     "type": "app"
   },
+   {
+    "dateClose": "2012-00-05",
+    "dateOpen": "2021-08-17",
+    "description": "Internet Explorer 11 is a web browser developed by Microsoft. It is the last browser in the Internet Explorer line.",
+    "link": "https://www.theverge.com/2020/8/17/21372487/microsoft-internet-explorer-11-support-end-365-legacy-edge",
+    "name": "Internet Explorer 11",
+    "type": "app"
+  },
   {
     "dateClose": "2011-06-05",
     "dateOpen": "1997-09-15",
@@ -144,6 +160,22 @@
     "type": "hardware"
   },
   {
+    "dateClose": "2010-11-14",
+    "dateOpen": "2021-01-12",
+    "description": "Microsoft Host Integration Server is a gateway application providing connectivity between Microsoft Windows networks and IBM mainframe and AS/400 systems.",
+    "link": "https://docs.microsoft.com/en-ca/lifecycle/products/microsoft-host-integration-server-2010",
+    "name": "Host Integration Server 2010",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-01-12",
+    "dateOpen": "2010-11-14",
+    "description": "Biztalk Server 2010 is a service provided by Microsoft that allows teams to automate their workflows.",
+    "link": "hhttps://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx",
+    "name": "BizTalk Server 2010",
+    "type": "service"
+  },
+  {
     "dateClose": "2019-10-15",
     "dateOpen": "2016-11-10",
     "description": "Google Daydream was a virtual reality platform and set of hardware devices that worked with certain Android phones.",
@@ -152,11 +184,27 @@
     "type": "hardware"
   },
   {
+    "dateClose": "2021-01-12",
+    "dateOpen": "2010-11-17",
+    "description": "Microsoft Sync Framework is a data synchronization platform from Microsoft that can be used to synchronize data across multiple data stores.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Sync_Framework",
+    "name": "Microsoft Sync Framework 2.1",
+    "type": "service"
+  },
+  {
     "dateClose": "2019-11-22",
     "dateOpen": "2018-01-26",
     "description": "Google Bulletin was a hyperlocal news service where users could post news from their neighborhood and allow others in the same areas to hear those stories.",
     "link": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
     "name": "Google Bulletin",
+    "type": "service"
+  },
+   {
+    "dateClose": "2021-07-31",
+    "dateOpen": "2015-05-01",
+    "description": "Skype for Business Online is a service that allows teams to communicate with each other over voice, and text.",
+    "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/skype-for-business-online-will-retire-in-12-months-plan-for-a/ba-p/1554531",
+    "name": "Skype for Business Online",
     "type": "service"
   },
   {
@@ -182,6 +230,14 @@
     "link": "https://9to5google.com/2019/08/26/youtube-nintendo-3ds-app-shut-down/",
     "name": "YouTube for Nintendo 3DS",
     "type": "app"
+  },
+  {
+    "dateClose": "2021-10-12",
+    "dateOpen": "2008-10-10",
+    "description": "Microsoft Silverlight is an application plugin framework, developed for building rich web applications, similar to Adobe Flash.",
+    "link": "https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788",
+    "name": "Microsoft Silverlight",
+    "type": "service"
   },
   {
     "dateClose": "2020-09-01",
